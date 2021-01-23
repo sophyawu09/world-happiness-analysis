@@ -1,1 +1,1 @@
-# world-happiness-analysis
+# World Happiness Analysis
